@@ -8,7 +8,7 @@ I'm a self-taught Machine Learning enthusiast with a strong foundation in PyTorc
 
 ### Hugging Face Transformers
 
-- ** Remove deprecated max_size support from YOLOS image processor #38923
+- Remove deprecated max_size support from YOLOS image processor #38923
 - My first contribution, cleaning up legacy logic in vision preprocessing. Currently working toward deeper fixes in the training loop and evaluation flow.
 
 ---
