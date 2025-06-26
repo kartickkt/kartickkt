@@ -4,9 +4,9 @@ I'm a self-taught Machine Learning enthusiast with a strong foundation in PyTorc
 
 ---
 
-## 🔧 Open Source Contributions
+## Open Source Contributions
 
-### 🤗 Hugging Face Transformers
+### Hugging Face Transformers
 
 - **PR #35611:** [Removed deprecated `max_size` logic from image processor](https://github.com/huggingface/transformers/pull/35611)  
   My first contribution, cleaning up legacy logic in vision preprocessing. Currently working toward deeper fixes in the training loop and evaluation flow.
