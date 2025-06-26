@@ -16,5 +16,4 @@ I'm a self-taught Machine Learning enthusiast with a strong foundation in PyTorc
 ## Goals
 
 - Contribute core-level improvements to Transformers and Diffusers
-- Build real-world RL applications
 - Land an ML Engineer role focused on generative models or agent-based systems
